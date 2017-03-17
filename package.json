@@ -4,5 +4,20 @@
   "main": "index.js",
   "dependencies": {
     "mkdirp": "^0.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoping6688/deploy-webpack-plugin.git"
+  },
+  "keywords": [
+    "deploy",
+    "webpack",
+    "plugin"
+  ],
+  "author": "gongruixue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoping6688/deploy-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/xiaoping6688/deploy-webpack-plugin"
 }
